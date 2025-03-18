@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=jithus24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jithus24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=false" width="600" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jithus24&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" height="250" />
 <!--
 **jithus24/jithus24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
